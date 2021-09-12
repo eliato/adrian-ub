@@ -17,6 +17,7 @@
 
 ## Publicaciones de Blog
 <!-- BLOG-POST-LIST:START -->
+- [Crear controles de formulario personalizados usando ControlValueAccessor en Angular](https://adrianub.dev/blog/crear-controles-de-formulario-personalizados-usando-controlvalueaccessor-en-angular)
 - [Bordes rellenables con TailwindCSS](https://adrianub.dev/blog/bordes-rellenables-con-tailwindcss)
 - [Combinando múltiples flujos Http con RxJS Observables en Angular](https://adrianub.dev/blog/combinando-multiples-flujos-http-con-rxjs-observables-en-angular)
 - [Cómo usar TailwindCSS v2 en Laravel 8](https://adrianub.dev/blog/como-usar-tailwindcss-v2-en-laravel-8)
