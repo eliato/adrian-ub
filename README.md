@@ -17,6 +17,7 @@
 
 ## Publicaciones de Blog
 <!-- BLOG-POST-LIST:START -->
+- [Refactorización: Guard Clauses](https://adrianub.dev/blog/refactorizacion-guard-clauses)
 - [Crear controles de formulario personalizados usando ControlValueAccessor en Angular](https://adrianub.dev/blog/crear-controles-de-formulario-personalizados-usando-controlvalueaccessor-en-angular)
 - [Bordes rellenables con TailwindCSS](https://adrianub.dev/blog/bordes-rellenables-con-tailwindcss)
 - [Combinando múltiples flujos Http con RxJS Observables en Angular](https://adrianub.dev/blog/combinando-multiples-flujos-http-con-rxjs-observables-en-angular)
