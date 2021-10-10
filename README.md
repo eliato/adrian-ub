@@ -5,14 +5,14 @@
 <h3 align="center">Un <b>Desarrollador Frontend</b> de Colombia que crea aplicaciones y sitios web usando Angular.</h3>
 
 <div>
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=adrian-ub&count_private=true&show_icons=true&locale=es">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-ub&layout=compact&locale=es">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=adrian-ub&count_private=true&show_icons=true&locale=es&theme=github_dark ">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-ub&layout=compact&locale=es&theme=github_dark ">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-ub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-ub&theme=github-dark">
 </div>
 
 ## Publicaciones de Blog
