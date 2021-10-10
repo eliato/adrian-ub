@@ -1,39 +1,36 @@
-<svg fill="none" viewBox="0 0 1000 50" width="1000" height="50"
-	xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div
-			xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-             .wrapper {
-                display: flex;
-                align-items: center;
-                justify-content: center;
-             }
-             .typing-demo {
-                width: 19ch;
-                animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-                white-space: nowrap;
-                overflow: hidden;
-                border-right: 3px solid;
-                font-family: monospace;
-                font-size: 3em;
-             }
-             @keyframes typing {
-                from {
-                    width: 0
-                }
-             }
-             @keyframes blink {
-                50% {
-                    border-color: transparent
-                }
-             }
-          </style>
-			<div class="wrapper">
-				<div class="typing-demo">
-                    Hola, Soy Adrián UB
-				</div>
-			</div>
-		</div>
-	</foreignObject>
+<svg fill="none" viewBox="0 0 1000 50" width="1000" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrapper {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .typing-demo {
+          width: 19.4ch;
+          animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid;
+          font-family: monospace;
+          font-size: 3em;
+          text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+        }
+        @keyframes typing {
+          from {
+              width: 0
+          }
+        }
+        @keyframes blink {
+          50% {
+              border-color: transparent
+          }
+        }
+      </style>
+      <div class="wrapper">
+        <div class="typing-demo">Hola, Soy Adrián UB</div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
